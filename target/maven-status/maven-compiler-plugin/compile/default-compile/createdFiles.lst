@@ -1,0 +1,8 @@
+com\rdemir\library\model\Response.class
+com\rdemir\library\repository\BookRepository.class
+com\rdemir\library\service\imp\BookServiceImp.class
+com\rdemir\library\controller\BookController.class
+com\rdemir\library\model\Book.class
+com\example\library\LibraryrestApplication.class
+com\rdemir\library\model\PersistanceObject.class
+com\rdemir\library\service\BookService.class
